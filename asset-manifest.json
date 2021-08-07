@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.905a8a8a.chunk.css",
+    "main.js": "/static/js/main.bf2d1138.chunk.js",
+    "main.js.map": "/static/js/main.bf2d1138.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20ad6395.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20ad6395.js.map",
+    "static/js/2.043cdefb.chunk.js": "/static/js/2.043cdefb.chunk.js",
+    "static/js/2.043cdefb.chunk.js.map": "/static/js/2.043cdefb.chunk.js.map",
+    "static/js/3.bd0bbf32.chunk.js": "/static/js/3.bd0bbf32.chunk.js",
+    "static/js/3.bd0bbf32.chunk.js.map": "/static/js/3.bd0bbf32.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.905a8a8a.chunk.css.map": "/static/css/main.905a8a8a.chunk.css.map",
+    "static/js/2.043cdefb.chunk.js.LICENSE.txt": "/static/js/2.043cdefb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bg.b612d82f.jpg",
+    "static/media/insta.4c21a102.jfif": "/static/media/insta.4c21a102.jfif",
+    "static/media/loading.42aaa181.jpg": "/static/media/loading.42aaa181.jpg",
+    "static/media/rp.c9c12045.png": "/static/media/rp.c9c12045.png",
+    "static/media/telega.05fd7f84.jfif": "/static/media/telega.05fd7f84.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20ad6395.js",
+    "static/js/2.043cdefb.chunk.js",
+    "static/css/main.905a8a8a.chunk.css",
+    "static/js/main.bf2d1138.chunk.js"
+  ]
+}
